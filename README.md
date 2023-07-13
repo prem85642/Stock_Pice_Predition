@@ -9,17 +9,14 @@
 # Getting Started
 
 To run this code, you will need to have the following Python libraries installed:
+```bash
 
 NumPy
-
 pandas
-
 matplotlib
-
 Keras
-
 Sklearn
-
+```
 
 
 
